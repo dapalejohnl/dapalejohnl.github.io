@@ -8,19 +8,30 @@
 		<h2>
 			Johnathan Lee - Portfolio
 		</h2>
+		<p style="font-size:12px"><b>Last Updated: 09/02/2023</b></p>
+		
 		<h1 style="color:#dddddd">
 			About Me
 		</h1>
 		
-		<p style="margin-bottom: 50px; width:800px; margin-left: auto; margin-right: auto">I'm currently studying Computer Science at the University of California Irvine as a Senior, transferring from Saddleback College in Mission Viejo. I've coded multiple projects in: C, C++, Python, Lua, and Java. Below are a list of videos that show off some of the projects I've created either on my own or in teams that I've been apart of. 
+		<p style="margin-bottom: 50px; width:800px; margin-left:auto; margin-right:auto">I graduated from the University of California, Irvine in Summer 2023 with a Bachelor's in Computer Science. I've coded multiple projects in C, C++, Python, Lua, Java, and other languages. Below is a list of some of the projects I've created or been involved in developing. 
 		</p>
 		
 		<h1 style="color:#dddddd">
 			Projects
 		</h1>
 		
+		<p style="font-size:24px; margin-bottom:0px; color:#dddddd"><b>FlickPower Software</b></p>
+		<p style="margin-bottom:0px; width:800px; margin-left:auto; margin-right:auto">
+			
+		</p>
+		<p style="font-size:12px"><b>Developed in Python with Django</b></p>
+		<p style="font-size:16px"><b>Documentation is unavailable to respect the intellectual property (IP) of Flick</b></p>
+		
 		<p style="font-size:24px; margin-bottom:0px; color:#dddddd"><b>Dynamic Show System</b></p>
-		<p style="margin-bottom:0px">Created a node-based light show system in that communicates with web sockets to sync with a server. The system can output video, audio, and DMX signals through Raspberry Pi(s).</p>
+		<p style="margin-bottom:0px">
+			Created a node-based light show system in that communicates with web sockets to sync with a server. The system can output video, audio, and DMX signals through Raspberry Pi(s).
+		</p>
 		<p style="font-size:12px"><b>Developed in Python</b></p>
 		<h2>
 			<iframe width="500" height="275" style = "margin-bottom:25px"
@@ -32,7 +43,9 @@
 		</h2>
 		
 		<p style="font-size:24px; margin-bottom:0px; color:#dddddd"><b>Alien Attack FPS Game</b></p>
-		<p style="margin-bottom:0px">Developed a first-person shooter ride where players compete against each other by hitting targets to score. Frontend and backend work both involved.</p>
+		<p style="margin-bottom:0px">
+			Developed a first-person shooter ride where players compete against each other by hitting targets to score. Both front-end and back-end involved.
+		</p>
 		<p style="font-size:12px"><b>Developed in the Roblox engine with Lua</b></p>
 		<h2>
 			<iframe width="500" height="275" style = "margin-bottom:25px"
@@ -41,7 +54,9 @@
 		</h2>
 		
 		<p style="font-size:24px; margin-bottom:0px; color:#dddddd"><b>"Real Strategy" RTS Game</b></p>
-		<p style="margin-bottom:0px">While working at Roblox Corp. as a game design intern, I co-led a team to develop a new real-time strategy game focused on cross-platform play and accessibility.</p>
+		<p style="margin-bottom:0px">
+			While working at Roblox Corp. as a game design intern, I co-led a team to develop a new real-time strategy game focused on cross-platform play and accessibility.
+		</p>
 		<p style="font-size:12px"><b>Developed in the Roblox engine with Lua</b></p>
 		<h2>
 			<iframe width="500" height="275" style = "margin-bottom:25px"
@@ -50,11 +65,11 @@
 		</h2>
 		
 		<p style="color:#dddddd">Social Media Links</p>
-		<a style="text-decoration: none" href="https://twitter.com/dapale_">
-			<img src="images/twitter_icon.png" style="width:50px; height:50px">
-		</a>
 		<a style="text-decoration: none" href="https://www.linkedin.com/in/johnathanpl/">
 			<img src="images/linkedin_icon.png" style="width:50px; height:50px">
+		</a>
+		<a style="text-decoration: none" href="https://twitter.com/dapale_">
+			<img src="images/twitter_icon.png" style="width:50px; height:50px">
 		</a>
 		<a style="text-decoration: none" href="https://www.youtube.com/user/DapaJohn">
 			<img src="images/youtube_icon.png" style="width:50px; height:50px">
