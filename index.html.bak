@@ -8,7 +8,7 @@
 		<h2>
 			Johnathan Lee - Portfolio
 		</h2>
-		<p style="font-size:12px"><b>Last Updated: 09/02/2023</b></p>
+		<p style="font-size:12px"><b>Last Updated: 09/06/2023</b></p>
 		
 		<h1 style="color:#dddddd">
 			About Me
@@ -22,13 +22,17 @@
 		</h1>
 		
 		<p style="font-size:24px; margin-bottom:0px; color:#dddddd"><b>FlickPower Software</b></p>
+		<p style="font-size:12px"><b>April 2023 - present</b></p>
 		<p style="margin-bottom:0px; width:800px; margin-left:auto; margin-right:auto">
-			
+			Led a team at the University of California, Irvine (UCI) to design and implement a back-end and front-end software system for Flick using Django. 
+			Worked with Flick leadership to plan and coordinate the software design for their needs by creating robust, scalable, and secure API and database schema.
+			After graduating from UCI, continued working on expanding the back-end with additional functionality and start preparing the system for live deployment.
 		</p>
 		<p style="font-size:12px"><b>Developed in Python with Django</b></p>
 		<p style="font-size:16px"><b>Documentation is unavailable to respect the intellectual property (IP) of Flick</b></p>
 		
 		<p style="font-size:24px; margin-bottom:0px; color:#dddddd"><b>Dynamic Show System</b></p>
+		<p style="font-size:12px"><b>July 2018 - January 2020</b></p>
 		<p style="margin-bottom:0px">
 			Created a node-based light show system in that communicates with web sockets to sync with a server. The system can output video, audio, and DMX signals through Raspberry Pi(s).
 		</p>
@@ -43,6 +47,7 @@
 		</h2>
 		
 		<p style="font-size:24px; margin-bottom:0px; color:#dddddd"><b>Alien Attack FPS Game</b></p>
+		<p style="font-size:12px"><b>February 2021 - July 2021</b></p>
 		<p style="margin-bottom:0px">
 			Developed a first-person shooter ride where players compete against each other by hitting targets to score. Both front-end and back-end involved.
 		</p>
@@ -54,6 +59,7 @@
 		</h2>
 		
 		<p style="font-size:24px; margin-bottom:0px; color:#dddddd"><b>"Real Strategy" RTS Game</b></p>
+		<p style="font-size:12px"><b>June 2021 - August 2021</b></p>
 		<p style="margin-bottom:0px">
 			While working at Roblox Corp. as a game design intern, I co-led a team to develop a new real-time strategy game focused on cross-platform play and accessibility.
 		</p>
@@ -71,7 +77,7 @@
 		<a style="text-decoration: none" href="https://twitter.com/dapale_">
 			<img src="images/twitter_icon.png" style="width:50px; height:50px">
 		</a>
-		<a style="text-decoration: none" href="https://www.youtube.com/user/DapaJohn">
+		<a style="text-decoration: none" href="https://www.youtube.com/channel/UCB6guuqe67OxwiQ0vCsgXYg">
 			<img src="images/youtube_icon.png" style="width:50px; height:50px">
 		</a>
 	</body>
